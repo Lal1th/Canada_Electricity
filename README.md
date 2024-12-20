@@ -1,3 +1,3 @@
 # Canada_Electricity
 
-is still in progress
+Read the final report
